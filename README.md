@@ -21,4 +21,4 @@ Driven self-learner with a passion for programming, I enjoy crafting application
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tgsnimesh&show_icons=true&locale=en" alt="tgsnimesh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tgsnimesh&" alt="tgsnimesh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tgsnimesh" alt="tgsnimesh" /></p>
