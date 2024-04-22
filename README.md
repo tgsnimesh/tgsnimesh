@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nimesh</h1>
 Driven self-learner with a passion for programming, I enjoy crafting applications and bringing ideas to life through code.
 
+</br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tgsnimesh&label=Profile%20views&color=0e75b6&style=flat" alt="tgsnimesh" /> </p>
+</br>
 
 - 📝 I write articles on [https://medium.com/@tgsnimesh](https://medium.com/@tgsnimesh)
 
